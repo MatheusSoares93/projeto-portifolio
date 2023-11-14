@@ -34,3 +34,42 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+Perguntas.
+
+O que mais lhe fez pensar na elaboração do seu site, para garantir que o usuário tenha a melhor interação possível com  o seu sistema (produto)?
+
+No que você mais pensou na elaboração do tema escolhido? Explique de acordo com : cores, fontes e design?
+
+De acordo com o propósito de seu site, oque mais irá atrair o cliente para a compra do seu produto (venda de seus conhecimentos)?
+
+
+Avalie de 1 a 10 os seguintes tópicos referentes ao site elaborado : 
+
+	O nível de satisfação que quer atingir em relação a experiência do usuário?
+
+	Atrativo visual. 
+
+	Utilidade. ...
+
+	Acessibilidade. ...
+	
+	Credibilidade. ...
+	
+	Intuitividade. ...
+	
+	Desempenho técnico. ...
+
+	Proximidade e cumplicidade. ...
+
+	Inovação e originalidade.
+
+
+O que é um padrão de design e porque você deve seguir esses padrões?
+
+
+
+Leia o conteúdo disponibilizado nesse site e fale sobre o que você mais acha importante nesses 20 passos.:
+
+Os 20 Princípios de UX Design que Todo Designer Deve Seguir
