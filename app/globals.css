@@ -1,27 +1,93 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-:root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500&display=swap');
+*{
+    font-family: 'Inter';
+    font-weight: 400;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
+body{
+    margin: 0 50px 0 70px;
+    background-color: black;
+    color: aliceblue;
 }
 
-body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+header{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 40px;
+    border-bottom: 1px #00A3FF solid;
+}
+
+header>div{
+    display: flex;
+}
+
+.Menu>p{
+    margin-left: 40px;
+    font-size: 24px;
+}
+
+.Menu>p:hover{
+    color: #00A3FF;
+    cursor: pointer;
+}
+
+.Logo{
+    width: 50px;
+    height: 50px;
+}
+
+.LogoMenu{
+    margin-top: 10px;
+}
+
+
+.Sobre-Mim{
+    display: flex;
+    justify-content: space-between;
+    margin: 100px 180px;
+}
+
+.Sobre-Mim>div{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Perfil{
+    width: 350px; 
+    height: 350px; 
+    border-radius: 9999px;
+}
+
+.BioTitulo{
+    text-align: center;
+    margin-bottom: 0;
+    font-size: 38px;
+}
+
+.BioSubTitulo{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.BioSubTitulo1{
+    color: #00A3FF;
+    margin-right: 12px;
+    font-size: 38px;
+    margin-top: 10px;
+}
+
+.BioSubTitulo2{
+    font-size: 38px;
+    margin-top: 10px;
+}
+
+.Bio{
+    font-weight: 300;
+    font-size: 24px;
+    text-wrap: wrap;
+    margin: 0 140px;
+    text-align: center;
 }
