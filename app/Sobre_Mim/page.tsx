@@ -2,7 +2,7 @@ import Image from 'next/image'
 import r34 from '../img/r34.jpg'
 export default function Sobre_Mim (){
     return (
-        <section className="Sobre-Mim">
+        <section className="Sobre-Mim" id='SobreMim'>
         <div>
             <Image className='Perfil' src={r34} alt=''/>
         </div>
