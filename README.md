@@ -39,37 +39,51 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 Perguntas.
 
 O que mais lhe fez pensar na elaboração do seu site, para garantir que o usuário tenha a melhor interação possível com  o seu sistema (produto)?
+R: Eu pensei em fazer um site que fosse bonito de se ver e tambem simples de navegar para que quando alguem acessar não tenha dificuldades de entender como o site funciona
 
 No que você mais pensou na elaboração do tema escolhido? Explique de acordo com : cores, fontes e design?
+R: Eu escolhi 3 cores basicas deixei o fundo preto pois eu achei que ficou bonito e tambem mais confortavel para os olhos na minha opinião as letras do site no geral brancas e algumas com um tom de azul que eu escolhi para ser a cor destaque do meu site os icones utilizados todos eu escolhi usar o mesmo tom de azul  
 
 De acordo com o propósito de seu site, oque mais irá atrair o cliente para a compra do seu produto (venda de seus conhecimentos)?
+R: Eu acredito que o design do site vai chamar atenção do cliente e também coloquei uma seção de habilidades no site para que o cliente saiba em quais areas eu posso trabalhar e tambem uma outra seção com outro projeto que fiz para que ele possa ver
 
 
 Avalie de 1 a 10 os seguintes tópicos referentes ao site elaborado : 
 
 	O nível de satisfação que quer atingir em relação a experiência do usuário?
+ 	R: 7
 
 	Atrativo visual. 
+ 	R: 10
 
 	Utilidade. ...
+ 	R: 8
 
 	Acessibilidade. ...
+ 	R: 3
 	
 	Credibilidade. ...
+ 	R: 10
 	
 	Intuitividade. ...
+ 	R: 8
 	
 	Desempenho técnico. ...
+ 	R: 7
 
 	Proximidade e cumplicidade. ...
+ 	R: 7
 
 	Inovação e originalidade.
+ 	R: 7
 
 
 O que é um padrão de design e porque você deve seguir esses padrões?
+R: Padrões de design no desenvolvimento de software são soluções comprovadas para problemas comuns eles oferecem diretrizes para estruturar o código de maneira eficaz seguir padrões traz benefícios como padronização e resolução eficaz de problemas em resumo são boas práticas que ajudam a criar software mais robusto e de fácil manutenção
 
 
 
 Leia o conteúdo disponibilizado nesse site e fale sobre o que você mais acha importante nesses 20 passos.:
 
 Os 20 Princípios de UX Design que Todo Designer Deve Seguir
+R: Acredito que seja Mantenha o foco no usuário o usuário é o centro do design de UX entender suas necessidades comportamentos e expectativas é essencial para criar uma experiência significativa e eficaz
